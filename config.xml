@@ -53,7 +53,7 @@
 
     <!-- splash screen -->
     <!--gap:plugin name="org.apache.cordova.splashscreen" /-->
-    <plugin name="org.apache.cordova.splashscreen" spec="0.1.0" source="pgb"/>
+    <plugin name="cordova-plugin-splashscreen" spec="~4.0.3" />
 
     <preference name="SplashScreen" value="splash" />
     <preference name="SplashScreenDelay" value="1500" />
